@@ -1,4 +1,4 @@
-<img width="1914" height="892" alt="image" src="https://github.com/user-attachments/assets/0f194ce8-79eb-42dc-91c6-b5eb937ae7e6" /># Hey 👋, I'm Monisha D 🙋‍♀️
+# Hey 👋, I'm Monisha D 🙋‍♀️
 
 🌸 Aspiring Full Stack Developer | 💻 Web Development Enthusiast | 🇮🇳 From India
 
