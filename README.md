@@ -2,7 +2,7 @@
 
 🌸 Aspiring Full Stack Developer | 💻 Web Development Enthusiast | 🇮🇳 From India
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" width="100%" />
+<img src="https://tse2.mm.bing.net/th/id/OIP.l7tfdbbXGstxxJ8hyTVIlQHaCe?pid=Api&P=0&h=180" alt="banner" width="100%" />
 
 ---
 
