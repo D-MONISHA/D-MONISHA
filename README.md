@@ -39,8 +39,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/monisha2907/)
+- 📧 Email: dmonishait@gmail.com
 
 
 ---
