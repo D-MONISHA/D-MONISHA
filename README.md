@@ -12,7 +12,7 @@
 - 🌱 Currently learning **React.js**, **MySQL**, and advanced **UI/UX**
 - 🛠️ Tools: HTML, CSS, JavaScript, Python, MySQL, Git, VS Code, XAMPP
 - 🧩 Working on: **Online Bookstore**, **Blood Bank System**, **Mask Detection App**
-- 🏆 Hackerrank: `3656 Hackos`, CodeChef: `15 Problems Solved`
+- 🏆 Hackerrank: `5100 Hackos`, CodeChef: `15 Problems Solved`
 - 📚 Certified in **IoT**, **Human Computer Interaction (NPTEL)**
 
 ---
